@@ -1,0 +1,8 @@
+{
+    "tdt4102.isProjectFolder": true,
+    "files.associations": {
+        "map": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp"
+    }
+}

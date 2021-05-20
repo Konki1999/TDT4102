@@ -1,0 +1,4 @@
+Dette er en test
+Jeg, legger, inn: noen ... spesial$tegn for å \n sjekke om den endl; klikker
+z
+z
